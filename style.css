@@ -63,6 +63,7 @@ p.card-text {
 
 .card {
     border: none;
+    background-color: #EBF8FF !important;
 }
 
 h3 {
@@ -149,9 +150,9 @@ h4 {
     text-align: right;
 }
 
-.experience {
+/* .experience {
     margin-top: 20px;
-}
+} */
 
 .experience-company {
     font-family: Mukta-Bold;
@@ -204,5 +205,9 @@ section{
     bottom: 0;
     z-index: -1;
     overflow: "visible";
+}
+
+ul {
+    font-family: Work_Sans !important;
 }
 
